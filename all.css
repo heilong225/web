@@ -24,7 +24,7 @@ dav ul {
 .menu li {
     position: relative;
     padding: 0px;
-    border: lightblue 1px dashed;
+    border: #c0c0c0 1px solid;
     min-width: 120px;
 }
 
